@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BusUrl</key>
+	<string>http://www.yourmapper.com/api/markers.php?c=&amp;search=&amp;start=&amp;end=&amp;num=100&amp;lat=LATITUDE&amp;lon=LONGITUDE&amp;center=1&amp;radius=1&amp;n=&amp;client=&amp;f=json&amp;key=KEY</string>
+	<key>AdUrl</key>
+	<string>http://www.yourmapper.com/api/appad.php?id=DATASETID&amp;lat=LATITUDE&amp;lon=LONGITUDE</string>
+	<key>DataSetLinkUrl</key>
+	<string>http://www.yourmapper.com/map/DATASETID/DATASETNAME/DATASETPERMALINK?address=&amp;c=CATEGORIES&amp;search=SEARCHTEXT&amp;start=STARTDATE&amp;end=ENDDATE&amp;num=100&amp;lat=LATITUDE&amp;lon
+=LONGITUDE&amp;n=&amp;client=</string>
+	<key>DataSetCategoriesUrl</key>
+	<string>http://www.yourmapper.com/api/mapcategories.php?id=ID&amp;key=KEY&amp;format=json</string>
+	<key>DataSetDetailUrl</key>
+	<string>http://www.yourmapper.com/api/markers.php?id=ID&amp;lat=LATITUDE&amp;lon=LONGITUDE&amp;key=KEY&amp;f=json</string>
+	<key>DataSetInfoUrl</key>
+	<string>http://www.yourmapper.com/api/mapinfo.php?id=ID&amp;key=KEY&amp;format=json</string>
+	<key>DataSetUrl</key>
+	<string>http://www.yourmapper.com/api/datasetlist.php?minlat=MINLAT&amp;maxlat=MAXLAT&amp;minlon=MINLON&amp;maxlon=MAXLON&amp;format=json&amp;sort=SORT&amp;details=1&amp;key=KEY</string>
+	<key>YourMapperAPIKey</key>
+	<string>GetKeyFromYourMapperDotCom</string>
+	<key>GoogleDirectionsMapAPI</key>
+	<string>http://maps.google.com/maps?saddr=%f,%f&amp;daddr=%f,%f</string>
+</dict>
+</plist>
