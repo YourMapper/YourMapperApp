@@ -1,7 +1,7 @@
 YourMapperApp
 =============
 
-Full Xcode of working YourMapper iPhone app that puts all our local data at your fingertips.  
+Full xCode of working YourMapper iPhone app that puts all our local data at your fingertips.  
 
 Use this repo to see how to integrate our local data into your iOS apps with our API.  
 
