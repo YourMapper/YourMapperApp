@@ -3,12 +3,12 @@ YourMapper iPhone App
 
 Full Xcode of working YourMapper iPhone app that puts all our local data at your fingertips.  The free YourMapper app is open sourced on Github.  Since we pull in civic open data and make it available for free on our site, and through the app, we thought we'd open the app up to you for improvements.
 
-About the App
--------------
+Build Your App
+--------------
 
 **Use this repo as a starting point to see how to easily integrate our local data into your iOS apps with our API.** 
 
-Please fork the code and improve it, add features, fix bugs, and release your own app.  It can be exactly like our app (minus our YourMapper branding), or it can be something totally different.  It's up to you.
+Please fork the code and improve it, add features, fix bugs, and release your own app.  It can be exactly like our app (minus our YourMapper branding), or it can be something totally different.  Paid or free. It's up to you.  Go crazy.
 
 More app info at http://www.yourmapper.com/app
 
